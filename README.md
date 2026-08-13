@@ -1,2 +1,1 @@
-[[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=100&color=36BCA1&width=435&lines=Desenvolvedor+de+Software;Entusiasta+de+IoT;Apaixonado+por+c%C3%B3digo](https://git.io/typing-svg)
-](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=100&color=36BCA1&width=435&lines=Desenvolvedor+de+Software;Entusiasta+de+IoT;Apaixonado+por+c%C3%B3digo](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=36BCA1&width=435&lines=Desenvolvedor+de+Software;Entusiasta+de+IoT;Apaixonado+por+c%C3%B3digo)](https://git.io/typing-svg)
